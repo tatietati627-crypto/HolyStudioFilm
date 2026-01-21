@@ -1,0 +1,8 @@
+{
+  "name": "holylove",
+  "description": "A premium movie streaming application with Full HD/4K support, localized interface, and a dedicated admin panel.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
